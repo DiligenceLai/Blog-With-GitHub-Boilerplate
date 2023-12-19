@@ -95,7 +95,7 @@ $$C_{m\times k}=A_{m\times n}\cdot B_{n\times k}$$
 [/photos]
 
 [photos]
-![](./images/first/IMG_0039.jpeg)
+![](../images/first/IMG_0039.jpeg)
 ![](./images/IMG_00510.jpeg)
 ![](./images/IMG_0005.jpeg)
 [/photos]
